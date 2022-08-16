@@ -2,7 +2,7 @@
 Haberler sayfası Btk Akademi **Erzurum**
 
 #Biz *bugün*;
-*Body Tasarımı-header,nav,article,footer
+*Body Tasarımı-header,nav,article,footer.
 
 *formlar 
 
