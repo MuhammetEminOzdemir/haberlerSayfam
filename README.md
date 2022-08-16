@@ -1,10 +1,10 @@
 # haberlerSayfam
 Haberler sayfası Btk Akademi **Erzurum**
 
-## Biz *bugün*;
-*Body Tasarımı-header,nav,article,footer
+## Biz **bugün**;
+* body Tasarımı-header,nav,article,footer
 
-*Formlar 
+* formlar 
 
 Konuları işlendi.
 
