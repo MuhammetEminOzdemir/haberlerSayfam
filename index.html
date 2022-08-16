@@ -1,0 +1,70 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css">
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body style="background-color:Orange;">
+    <header>Haberler.com</header>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Anasayfa</a></li>
+        <li><a href="Ekonomi.html">Ekonomi</a></li>
+        <li><a href="Siyaset.html">Siyaset</a></li>
+        <li><a href="Magazin.html">Magazin</a></li>
+        <li><a href="Spor.html">Spor</a></li>
+      </ul>
+    </nav>
+
+    <article>
+     <h1 style="background-color:red;">Anasayfa Bilgileri</h1>
+     <form action="kullanicilar.html">
+       <h3 style="background-color:red;">--Kullanıcı Kayıt Formu--</h3>
+
+      <label style="background-color:violet;">Kullanıcı Adı:</label> 
+       <input name="isim" type="text" required/> <br>
+
+      <label  style="background-color:violet;">Ad Soyad:</label> 
+       <input name="isim" type="text"  required/> <br>
+
+       <label  style="background-color:violet;">Şifre:</label>
+       <input name="sifre" type="password"  required/> <br><br>
+
+       <label  style="background-color:violet;">Cinsiyet:</label>
+       <select>
+         <option>Erkek</option>
+         <option>Kadın</option>
+       </select> <br><br>
+
+       <label  style="background-color:violet;">Sevdiğiniz Araba Markaları:</label><br>
+       <select name="cars" size="4" multiple>
+         <option>BMW</option>
+         <option>MERCEDES</option>
+         <option>TOGG</option>
+         <option>AUDİ</option>
+         <option>TOYOTA</option>
+         <option>TOFAŞK</option>
+       </select>
+       <br><br>
+
+       <label  style="background-color:violet;">Görüş ve önerileriniz:</label><br>
+       <textarea name="gorüsler" type="text" rows="5" cols="35"></textarea>
+       <br>
+       <input style="background-color:green;" type="submit" value="Kaydet"/>
+       <button style="background-color:green;" onClick="alert('Tıklayın');"> kaydedildi
+
+
+     </form>
+
+    </article>
+   <br>
+   <footer>Copright &copy; M.emin</footer>
+
+
+
+
+  </body>
+</html>
