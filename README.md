@@ -2,11 +2,10 @@
 Haberler sayfası Btk Akademi **Erzurum**
 
 ## Biz *bugün*;
-* Body Tasarımı-header,nav,article,footer
+*Body Tasarımı-header,nav,article,footer
 
-* Formlar 
+*Formlar 
 
 Konuları işlendi.
-
 
 ![](image.JPG)
